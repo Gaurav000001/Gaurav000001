@@ -1,3 +1,6 @@
+<img alt="coding banner" width="100%" src="">
+
+
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
