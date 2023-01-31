@@ -1,8 +1,9 @@
-<img alt="coding banner" width="100%" src="https://github.com/Gaurav000001/Gaurav000001/blob/main/github%20banner.png?raw=true">
 
 
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+
+<img alt="coding banner" width="100%" src="https://github.com/Gaurav000001/Gaurav000001/blob/main/github%20banner.png?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav000001&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav000001" /> </p>
 
