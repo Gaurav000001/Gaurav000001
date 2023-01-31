@@ -17,8 +17,6 @@
 
 - 💬 Ask me about ->  **Java, JavaScript, HTML, CSS**
 
-- 📫 How to reach me ->  **gangulygaurav166@gmail.com**
-
 - 📄 My Resume ->  [Gaurav_Ganguly_Resume](https://drive.google.com/file/d/1S8nqpKJWjNnIg9iYQ-FpHbYRkq7MSCkh/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
