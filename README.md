@@ -1,4 +1,4 @@
-<img alt="coding banner" width="100%" src="">
+<img alt="coding banner" width="100%" src="https://github.com/Gaurav000001/Gaurav000001/blob/main/github%20banner.png?raw=true">
 
 
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
