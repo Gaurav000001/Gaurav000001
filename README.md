@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning ->  **Java**
 
-- 👨‍💻 All of my projects are available at ->  [https://gaurav000001.github.io/](https://gaurav000001.github.io/)
+- 👨‍💻 All of my projects are available at ->  [https://gaurav000001.github.io/](https://Gaurav000001.github.io/)
 
 - 💬 Ask me about ->  **Java, JavaScript, HTML, CSS**
 
 - 📄 My Resume ->  [Gaurav_Ganguly_Resume](https://drive.google.com/file/d/1S8nqpKJWjNnIg9iYQ-FpHbYRkq7MSCkh/view?usp=share_link)
 
-- ⚡My PortFolio is ->  [https://gaurav000001.github.io/](https://gaurav000001.github.io/)
+- ⚡My PortFolio is ->  [https://gaurav000001.github.io/](https://Gaurav000001.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
