@@ -16,7 +16,7 @@
 
 - 💬 Ask me about ->  **Java, JavaScript, HTML, CSS**
 
-- 📄 My Resume -:-:-:-  [![resume](https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://www.linkedin.com/in/gaurav-ganguly-bb7ba9246/](https://drive.google.com/file/d/1S8nqpKJWjNnIg9iYQ-FpHbYRkq7MSCkh/view?usp=share_link))
+- 📄 My Resume -:-:-:-  [![resume](https://img.shields.io/badge/resume-0000f0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1S8nqpKJWjNnIg9iYQ-FpHbYRkq7MSCkh/view?usp=share_link)
 
 - ⚡My PortFolio is -:-:-:- [![portfolio](https://img.shields.io/badge/portfolio-A020F0?style=for-the-badge&logo=latex&logoColor=white)](https://Gaurav000001.github.io/)
 
