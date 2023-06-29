@@ -12,18 +12,19 @@
 
 - 🌱 I’m currently learning ->  **Java**
 
-- 👨‍💻 All of my projects are available at ->  [Portfolio](https://Gaurav000001.github.io/)
+- 👨‍💻 All of my projects are available at -:-:-:- [![portfolio](https://img.shields.io/badge/portfolio-A020F0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Gaurav000001.github.io/)
 
 - 💬 Ask me about ->  **Java, JavaScript, HTML, CSS**
 
 - 📄 My Resume ->  [Gaurav_Ganguly_Resume](https://drive.google.com/file/d/1S8nqpKJWjNnIg9iYQ-FpHbYRkq7MSCkh/view?usp=share_link)
 
-- ⚡My PortFolio is ->  [Portfolio](https://Gaurav000001.github.io/)
+- ⚡My PortFolio is -:-:-:- [![portfolio](https://img.shields.io/badge/portfolio-A020F0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Gaurav000001.github.io/)
 
 ## 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/gaurav-ganguly-bb7ba9246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-ganguly-bb7ba9246/" height="30" width="40" /></a>
-<a href="https://leetcode.com/gaurav000001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gaurav000001/" height="30" width="40" /></a>
+
+[![portfolio](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/gaurav000001/)
 </p>
 
 # 💻 Tech Stack:
