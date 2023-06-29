@@ -18,7 +18,7 @@
 
 - 📄 My Resume ->  [Gaurav_Ganguly_Resume](https://drive.google.com/file/d/1S8nqpKJWjNnIg9iYQ-FpHbYRkq7MSCkh/view?usp=share_link)
 
-- ⚡My PortFolio is -:-:-:- [![portfolio](https://img.shields.io/badge/portfolio-A020F0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Gaurav000001.github.io/)
+- ⚡My PortFolio is -:-:-:- [![portfolio](https://img.shields.io/badge/portfolio-A020F0?style=for-the-badge&logo=latex&logoColor=white)](https://Gaurav000001.github.io/)
 
 ## 🌐 Socials:
 <p align="left">
