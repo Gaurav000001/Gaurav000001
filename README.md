@@ -22,8 +22,9 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/gaurav-ganguly-bb7ba9246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-ganguly-bb7ba9246/" height="30" width="40" /></a>
-
+  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-ganguly-bb7ba9246/)
+  
 [![portfolio](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/gaurav000001/)
 </p>
 
