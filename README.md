@@ -5,26 +5,18 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Gaurav000001&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
+<div>
+  <img align="right" alt="coding" height="250px" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif">
+  <img align="right" alt="coding" height="250px" src="https://skill.webdroidedutech.com/wp-content/uploads/2024/07/full-stack.gif">
+</div>
 
-- 🔭 I’m currently working on ->  **Auction Management System**
+- [![resume](https://img.shields.io/badge/resume-0000f0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1S8nqpKJWjNnIg9iYQ-FpHbYRkq7MSCkh/view?usp=share_link)
 
-- 🌱 I’m currently learning ->  **Java**
-
-- 👨‍💻 All of my projects are available at -:-:-:- [![portfolio](https://img.shields.io/badge/portfolio-A020F0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Gaurav000001.github.io/)
-
-- 💬 Ask me about ->  **Java, JavaScript, HTML, CSS**
-
-- 📄 My Resume -:-:-:-  [![resume](https://img.shields.io/badge/resume-0000f0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1S8nqpKJWjNnIg9iYQ-FpHbYRkq7MSCkh/view?usp=share_link)
-
-- ⚡My PortFolio is -:-:-:- [![portfolio](https://img.shields.io/badge/portfolio-A020F0?style=for-the-badge&logo=latex&logoColor=white)](https://Gaurav000001.github.io/)
-
-## 🌐 Socials:
-<p align="left">
+- [![portfolio](https://img.shields.io/badge/portfolio-A020F0?style=for-the-badge&logo=latex&logoColor=white)](https://Gaurav000001.github.io/)
   
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-ganguly-bb7ba9246/)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-ganguly-bb7ba9246/)
   
-[![portfolio](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/gaurav000001/)
+- [![portfolio](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/gaurav000001/)
 </p>
 
 # 💻 Tech Stack:
