@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">An passionate Java Backend developer from India</h3>
+<h3 align="center">An passionate Software Developer from India</h3>
 
 <img alt="coding banner" width="100%" src="https://github.com/Gaurav000001/Gaurav000001/blob/main/github%20banner.png?raw=true">
 
