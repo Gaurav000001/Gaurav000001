@@ -4,11 +4,7 @@
 <img alt="coding banner" width="100%" src="https://github.com/Gaurav000001/Gaurav000001/blob/main/github%20banner.png?raw=true">
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Gaurav000001&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<div>
-  <img align="right" alt="coding" width="200px" height="250px" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif">
-  <img align="right" alt="coding" with="fit-content" height="250px" src="https://skill.webdroidedutech.com/wp-content/uploads/2024/07/full-stack.gif">
-</div>
+<img align="right" alt="coding" with="fit-content" height="250px" src="https://skill.webdroidedutech.com/wp-content/uploads/2024/07/full-stack.gif">
 
 - [![resume](https://img.shields.io/badge/resume-0000f0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1S8nqpKJWjNnIg9iYQ-FpHbYRkq7MSCkh/view?usp=share_link)
 
@@ -40,6 +36,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
+<img align="right" alt="coding" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif"><br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Gaurav000001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav000001&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gaurav000001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
