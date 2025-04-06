@@ -6,8 +6,8 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=Gaurav000001&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <div>
-  <img align="right" alt="coding" height="250px" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif">
-  <img align="right" alt="coding" height="250px" src="https://skill.webdroidedutech.com/wp-content/uploads/2024/07/full-stack.gif">
+  <img align="right" alt="coding" width="200px" height="250px" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif">
+  <img align="right" alt="coding" with="fit-content" height="250px" src="https://skill.webdroidedutech.com/wp-content/uploads/2024/07/full-stack.gif">
 </div>
 
 - [![resume](https://img.shields.io/badge/resume-0000f0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1S8nqpKJWjNnIg9iYQ-FpHbYRkq7MSCkh/view?usp=share_link)
